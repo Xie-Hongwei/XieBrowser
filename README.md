@@ -1,4 +1,1 @@
-# XieBrowser
-自研移动端浏览器
-本仓库可以存放项目源码，同时在发布页存放各版本APK安装包。
-存档版本：v1.0、v2.0、v3.1等等。
+XieBrowser, self-developed lightweight browser, built from scratch. Milestone builds archived. Custom dashboard & homepage, mobile-adapted. Long-term maintained, continuous updates. All releases stored for review. Xie浏览器，自研轻量浏览器，从零起步。留存里程碑安装包，支持自定义导航、主页，适配手机。长期维护、持续更新，存档方便回溯版本。
