@@ -1,1 +1,2 @@
-XieBrowser, self-developed lightweight browser, built from scratch. Milestone builds archived. Custom dashboard & homepage, mobile-adapted. Long-term maintained, continuous updates. All releases stored for review. Xie浏览器，自研轻量浏览器，从零起步。留存里程碑安装包，支持自定义导航、主页，适配手机。长期维护、持续更新，存档方便回溯版本。
+XieBrowser, self-developed lightweight browser, built from scratch. Milestone builds archived. Custom dashboard & homepage, mobile-adapted. Long-term maintained, continuous updates. All releases stored for review. This is the new official repo: https://github.com/XieHongwei132/XieBrowser
+Xie浏览器，自研轻量浏览器，从零起步。留存里程碑安装包，支持自定义导航、主页，适配手机。长期维护、持续更新，存档方便回溯版本。本项目现已迁移至新仓库：https://github.com/XieHongwei132/XieBrowser
